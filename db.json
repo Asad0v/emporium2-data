@@ -3373,5 +3373,31 @@
       "slug": "designers",
       "Subcategory": []
     }
+  ],
+  "categorymedia" : [
+    {
+      "media" : "https://cdn-cloudflare.emporium.az/women/main-banner-desktop.jpg",
+      "path" : "qadin"
+    },
+    {
+      "media" : "https://cdn-cloudflare.emporium.az/men/main-banner-desktop.gif",
+      "path" : "kisi"
+    },
+    {
+      "media" : "https://cdn-cloudflare.emporium.az/kids/main-banner-desktop.jpg",
+      "path" : "usaq"
+    },
+    {
+      "media" : "https://cdn-cloudflare.emporium.az/beauty/main-banner-desktop.jpg",
+      "path" : "gozellik"
+    },
+    {
+      "media" : "https://cdn-cloudflare.emporium.az/jewellery/main-banner-desktop.jpg",
+      "path" : "zinet"
+    },
+    {
+      "media" : "https://cdn-cloudflare.emporium.az/home/main-banner-desktop.jpg",
+      "path" : "ev"
+    }
   ]
 }
