@@ -1549,6 +1549,52 @@
         "Brend: Chaumet"
       ],
       "sales": "endirimsiz"
+    },
+    {
+      "id": "1041",
+      "category": "geyimlər",
+      "subcategory": "üst geyimləri",
+      "sub2category": "idman üslubu və yüngül",
+      "marka": "Miu Miu",
+      "name": "Denim bluzon gödəkçə",
+      "price": "6005 AZN",
+      "description": "Miu Miu brendindən olan bu bluzon gödəkçə müasir eleqantlığın təcəssümüdür. Yüngül denim və şambre parçadan hazırlanan bu model, həm rahatlıq, həm də dəbli görünüş təqdim edir. Bluzon silueti bədənə sərbəst oturaraq hərəkət azadlığı təmin edir və istənilən geyim üslubuna asanlıqla uyğunlaşır. Bu gödəkçə gündəlik qarderobunuza zəriflik və funksionallıq qatan əvəzolunmaz bir elementdir.",
+      "colors": [
+        {
+          "name": "Bej",
+          "code": "#F5F5DC"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/335770-54274a2a1115ef8bc0ba9849d1c9be01.jpg",
+          "https://cdn2.emporium.az/i/p/500/335770-d37218a15c337b2f0d654e922700575e.jpg",
+          "https://cdn2.emporium.az/i/p/500/335770-70ece6e6d715707c72c1b4f379da3a1e.jpg",
+          "https://cdn2.emporium.az/i/p/500/335770-3bdd6fa21930954b459ab179d09a194e.jpg",
+          "https://cdn2.emporium.az/i/p/500/335770-d6ef44bdd4a65a7a0a5c27d86b2fb562.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "IT38",
+        "IT40"
+      ],
+      "status": "new",
+      "tags": [
+        "100% pambıq",
+        "klassik yaxa",
+        "uzunqol",
+        "düyməli manjetlər",
+        "zəncirbənd",
+        "yan ciblər",
+        "elastik ətək",
+        "bol biçim",
+        "loqolu",
+        "rahat kəsim",
+        "klassik stil"
+      ],
+      "aboutmodel": "Modelin boyu 1.72 m, geyindiyi ölçü: 38",
+      "sales": "endirimli"
     }
   ],
   "kisi": [
@@ -2247,7 +2293,7 @@
     },
     {
       "id": "1058",
-      "category":"geyimlər",
+      "category": "geyimlər",
       "subcategory": "T-shirtlər",
       "sub2category": "Uzunqol T-shirtlər",
       "marka": "ralph lauren",
@@ -3374,30 +3420,30 @@
       "Subcategory": []
     }
   ],
-  "categorymedia" : [
+  "categorymedia": [
     {
-      "media" : "https://cdn-cloudflare.emporium.az/women/main-banner-desktop.jpg",
-      "path" : "qadin"
+      "media": "https://cdn-cloudflare.emporium.az/women/main-banner-desktop.jpg",
+      "path": "qadin"
     },
     {
-      "media" : "https://cdn-cloudflare.emporium.az/men/main-banner-desktop.gif",
-      "path" : "kisi"
+      "media": "https://cdn-cloudflare.emporium.az/men/main-banner-desktop.gif",
+      "path": "kisi"
     },
     {
-      "media" : "https://cdn-cloudflare.emporium.az/kids/main-banner-desktop.jpg",
-      "path" : "usaq"
+      "media": "https://cdn-cloudflare.emporium.az/kids/main-banner-desktop.jpg",
+      "path": "usaq"
     },
     {
-      "media" : "https://cdn-cloudflare.emporium.az/beauty/main-banner-desktop.jpg",
-      "path" : "gozellik"
+      "media": "https://cdn-cloudflare.emporium.az/beauty/main-banner-desktop.jpg",
+      "path": "gozellik"
     },
     {
-      "media" : "https://cdn-cloudflare.emporium.az/jewellery/main-banner-desktop.jpg",
-      "path" : "zinet"
+      "media": "https://cdn-cloudflare.emporium.az/jewellery/main-banner-desktop.jpg",
+      "path": "zinet"
     },
     {
-      "media" : "https://cdn-cloudflare.emporium.az/home/main-banner-desktop.jpg",
-      "path" : "ev"
+      "media": "https://cdn-cloudflare.emporium.az/home/main-banner-desktop.jpg",
+      "path": "ev"
     }
   ]
 }
