@@ -3074,6 +3074,44 @@
         "Toxunma Dizaynlı"
       ],
       "sales": "endirimli"
+    },
+    {
+      "id": "1079",
+      "category": "geyimlər",
+      "subcategory": "T-shirtlər",
+      "sub2category": "Printli T-shirtlər",
+      "marka": "Zegna",
+      "name": "Loqolu pambıq T-shirt",
+      "price": "830 AZN",
+      "description": "Bu ZEGNA T-shirt, 100% təbii pambıqdan hazırlanaraq, gündəlik geyim üçün səysiz eleqant bir yanaşma təqdim edir. Müasir fərd üçün nəzərdə tutulmuş bu model, günboyu rahatlığı təmkinli, lakin müasir bir estetik ilə birləşdirir.",
+      "colors": [
+        {
+          "name": "qəhvəyi",
+          "code": "#6F4E37"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/1500187-5e3a4ce97fa81927cb8e50b2f28598e9.jpg",
+          "https://cdn2.emporium.az/i/p/500/1500187-4d61722640162d7bb0fb05c4427f83a3.jpg",
+          "https://cdn2.emporium.az/i/p/500/1500187-19fe234c23b10498d93a4954cc3bbe17.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "İT52",
+        "İT54"
+      ],
+      "status": "new",
+      "tags": [
+        "100% pambıq",
+        "bol biçim",
+        "yumru boğaz",
+        "qısaqol",
+        "loqolu"
+      ],
+      "aboutmodel": "Modelin boyu 1.95 m, geyindiyi ölçü: 52",
+      "sales": "endirimsiz"
     }
   ],
   "categoryall": [
