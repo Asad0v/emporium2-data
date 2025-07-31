@@ -1551,7 +1551,7 @@
       "sales": "endirimsiz"
     },
     {
-      "id": "1041",
+      "id": "da1d9a15-2273-4f31-84cf-d40c1967c8ce",
       "category": "geyimlər",
       "subcategory": "üst geyimləri",
       "sub2category": "idman üslubu və yüngül",
@@ -1595,6 +1595,49 @@
       ],
       "aboutmodel": "Modelin boyu 1.72 m, geyindiyi ölçü: 38",
       "sales": "endirimli"
+    },
+    {
+      "id": "0264a0d4-c0e3-47ad-8f4d-61578df595de",
+      "category": "geyimlər",
+      "subcategory": "denim",
+      "sub2category": "şalvarlar",
+      "marka": "PatBO",
+      "name": "Çiçək printli Iris enli şalvarı",
+      "price": "453 AZN",
+      "description": "PatBO brendinə aid çiçək printli enli şalvar yüksək belli dizaynı və enli biçimi ilə rahatlığı və dəbli görünüşü birləşdirir. Zərif çiçək printi istənilən tərzə romantik toxunuş qatır.",
+      "colors": [
+        {
+          "name": "Ağ",
+          "code": "#FFFFFF"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/11360331-ac981f3bce7f3c9ba7f05b25c121dac3.jpg",
+          "https://cdn2.emporium.az/i/p/500/11360331-28663f215366fbcd618ba68497a2b9a4.jpg",
+          "https://cdn2.emporium.az/i/p/500/11360331-b579f71503600082acd93290f521e1b9.jpg",
+          "https://cdn2.emporium.az/i/p/500/11360331-a933e22b28dc6d7b9624304f02adc584.jpg",
+          "https://cdn2.emporium.az/i/p/500/11360331-d612e35109bdd7f28543e0729c34d2c0.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "status": "new",
+      "tags": [
+        "Tərkibi: 97% Pambıq, 3% Elastan",
+        "Zəncirbəndli bağlanma",
+        "Yüksək bel",
+        "Çiçək printli",
+        "Enli biçimli",
+        "Rəng: Ağ",
+        "PatBO",
+        "Jakron: Dana dərisi"
+      ],
+      "aboutmodel": "Modelin boyu 178 və geyindiyi ölçü: S",
+      "sales": "endirim"
     }
   ],
   "kisi": [
@@ -1969,7 +2012,7 @@
       "category": "geyimlər",
       "subcategory": "köynəklər",
       "sub2category": "klassik köynəklər",
-      "marka": "ralph lauren",
+      "marka": "ralphlauren",
       "name": "Pony naxışlı köynək",
       "price": "275 AZN",
       "description": "Ralph Lauren-dan olan Pony naxışlı köynək, kişilər üçün stilin klassikasıdır, həm dəb, həm də rahatlığı birləşdirir. Yumşaq və davamlı materialdan hazırlanmış bu model, bütün gün rahatlıq təmin edən mükəmməl uyğunluğa malikdir. Gövdədəki işlənmiş Pony loqotipi, markanın simvoludur və köynəyə xüsusi bir cazibə qatır. Bu köynək, həm iş görüşləri, həm də gündəlik geyimlər üçün mükəmməl bir seçimdir, obrazınıza mükəmməl eleganlıq əlavə edir.",
@@ -2015,7 +2058,7 @@
       "category": "geyimlər",
       "subcategory": "köynəklər",
       "sub2category": "klassik köynəklər",
-      "marka": "ralph lauren",
+      "marka": "ralphlauren",
       "name": "Pony naxışlı köynək",
       "price": "325 AZN",
       "description": "Ralph Lauren-dan olan Pony naxışlı köynək, kişilər üçün stilin klassikasıdır, həm dəb, həm də rahatlığı birləşdirir. Yumşaq və davamlı materialdan hazırlanmış bu model, bütün gün rahatlıq təmin edən mükəmməl uyğunluğa malikdir. Gövdədəki işlənmiş Pony loqotipi, markanın simvoludur və köynəyə xüsusi bir cazibə qatır. Bu köynək, həm iş görüşləri, həm də gündəlik geyimlər üçün mükəmməl bir seçimdir, obrazınıza mükəmməl eleganlıq əlavə edir.",
@@ -2216,7 +2259,7 @@
       "category": "geyimlər",
       "subcategory": "T-shirtlər",
       "sub2category": "Uzunqol T-shirtlər",
-      "marka": "ralph lauren",
+      "marka": "ralphlauren",
       "name": "Dairəvi yaxa ilə uzunqol T-shirt",
       "price": "220 AZN",
       "description": null,
@@ -2257,7 +2300,7 @@
       "category": "geyimlər",
       "subcategory": "T-shirtlər",
       "sub2category": "Uzunqol T-shirtlər",
-      "marka": "ralph lauren",
+      "marka": "ralphlauren",
       "name": "Dairəvi yaxa ilə uzunqol T-shirt",
       "price": "220 AZN",
       "description": null,
@@ -2296,7 +2339,7 @@
       "category": "geyimlər",
       "subcategory": "T-shirtlər",
       "sub2category": "Uzunqol T-shirtlər",
-      "marka": "ralph lauren",
+      "marka": "ralphlauren",
       "name": "Dairəvi yaxa ilə uzunqol T-shirt",
       "price": "220 AZN",
       "description": null,
@@ -2333,7 +2376,7 @@
       "category": "geyimlər",
       "subcategory": "T-shirtlər",
       "sub2category": "Uzunqol T-shirtlər",
-      "marka": "ralph lauren",
+      "marka": "ralphlauren",
       "name": "Dairəvi yaxa ilə uzunqol T-shirt",
       "price": "220 AZN",
       "description": null,
@@ -2372,7 +2415,7 @@
       "id": "1060",
       "category": "ayaqqabılar",
       "subcategory": "krossovkalar",
-      "marka": "ralph lauren",
+      "marka": "ralphlauren",
       "name": "Longwood dəri krossovkası",
       "price": "245 AZN",
       "description": null,
@@ -2416,7 +2459,7 @@
       "id": "1061",
       "category": "ayaqqabılar",
       "subcategory": "krossovkalar",
-      "marka": "ralph lauren",
+      "marka": "ralphlauren",
       "name": "Longwood dəri krossovkası",
       "price": "245 AZN",
       "description": "Ralph Lauren brendinə məxsus Longwood dəri idman ayaqqabısı klassik üslubu və zamansız dizaynı ilə seçilir. Yüksək keyfiyyətli dəri materialı və pambıq astarı sayəsində həm dayanıqlılığı, həm də rahatlığı təmin edir.",
@@ -2532,7 +2575,7 @@
       "id": "1064",
       "category": "ayaqqabılar",
       "subcategory": "mokasinlər",
-      "marka": "ralph lauren",
+      "marka": "ralphlauren",
       "name": "Zamşa mokasin",
       "price": "300 AZN",
       "description": "Ralph Lauren-dan olan zamşa mokasinlər — hər detalda dəb və rahatlığı qiymətləndirənlər üçün ideal seçimdir. Yüksək keyfiyyətli zamşadan hazırlanmış bu dəb mokasinlər, kənarlarında tikiş və Polo loqosu ilə sadə və eleqant dizayna malikdir. Model, möhkəm və toxumalı altlıqla təchiz olunub ki, bu da əla yapışma təmin edir. Həm gündəlik, həm də rahat üslub üçün mükəmməl olan boz rəngi, bu mokasinləri çox funksional edir.",
@@ -2570,7 +2613,7 @@
       "id": "1065",
       "category": "ayaqqabılar",
       "subcategory": "mokasinlər",
-      "marka": "ralph lauren",
+      "marka": "ralphlauren",
       "name": "Zamşa mokasin",
       "price": "300 AZN",
       "description": "Ralph Lauren-dan olan zamşa mokasinlər — hər detalda dəb və rahatlığı qiymətləndirənlər üçün ideal seçimdir. Yüksək keyfiyyətli zamşadan hazırlanmış bu dəb mokasinlər, kənarlarında tikiş və Polo loqosu ilə sadə və eleqant dizayna malikdir. Model, möhkəm və toxumalı altlıqla təchiz olunub ki, bu da əla yapışma təmin edir. Həm gündəlik, həm də rahat üslub üçün mükəmməl olan boz rəngi, bu mokasinləri çox funksional edir.",
@@ -2943,7 +2986,7 @@
       "id": "1075",
       "category": "aksesuarlar",
       "subcategory": "kəmərlər",
-      "marka": "ralph lauren",
+      "marka": "ralphlauren",
       "name": "Örgülü dəri kəmər",
       "price": "275 AZN",
       "description": "Ralph Lauren brendindən olan örgülü dəri kəmər qüsursuz üslub və eleqantlığı bir araya gətirən aksessuardır.Yüksək keyfiyyətli dəridən hazırlanmış bu model davamlı teksturası və orijinal örgülü dizaynı ilə istənilən görünüşünüzə xüsusi toxunuş qatır.",
@@ -2977,7 +3020,7 @@
       "id": "1076",
       "category": "aksesuarlar",
       "subcategory": "kəmərlər",
-      "marka": "ralph lauren",
+      "marka": "ralphlauren",
       "name": "Örgülü dəri kəmər",
       "price": "275 AZN",
       "description": "Ralph Lauren brendindən olan örgülü dəri kəmər qüsursuz üslub və eleqantlığı bir araya gətirən aksessuardır.Yüksək keyfiyyətli dəridən hazırlanmış bu model davamlı teksturası və orijinal örgülü dizaynı ilə istənilən görünüşünüzə xüsusi toxunuş qatır.",
@@ -3482,6 +3525,50 @@
     {
       "media": "https://cdn-cloudflare.emporium.az/home/main-banner-desktop.jpg",
       "path": "ev"
+    }
+  ],
+  "categmediacenter": [
+    {
+      "category": "qadin",
+      "description": "Yeni Əlavələr",
+      "brand": "fendi",
+      "img": "https://cdn-cloudflare.emporium.az/women/triple-banner-1.jpg",
+      "p": null
+    },
+    {
+      "category": "qadin",
+      "description": "Görünüşünüzün son dəbli toxunuşu",
+      "brand": null,
+      "img": "https://cdn-cloudflare.emporium.az/women/triple-banner-2.jpg",
+      "p": "Ayaqqabılar çantalar"
+    },
+    {
+      "category": "qadin",
+      "description": "Yeni Əlavələr",
+      "img" : "https://cdn-cloudflare.emporium.az/women/triple-banner-3.gif",
+      "brand": "PatBO",
+      "p": null
+    },
+    {
+      "category": "kisi",
+      "description": "Yeni Əlavələr",
+      "brand": "eleventy",
+      "img": "https://cdn2.emporium.az/i/p/500/326780-7329200295a415aa3690d57302d13be2.jpg",
+      "p": null
+    },
+    {
+      "category": "kisi",
+      "description": "Dəblə və inamla addımlayaq",
+      "brand": null,
+      "img": "https://cdn-cloudflare.emporium.az/men/triple-banner-2.jpg",
+      "p": "Ayaqqabılar"
+    },
+    {
+      "category": "kisi",
+      "description": "Yeni Əlavələr",
+      "img" : "https://cdn2.emporium.az/video/294978.mp4",
+      "brand": "ralphlauren",
+      "p": null
     }
   ]
 }
