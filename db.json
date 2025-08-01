@@ -1638,6 +1638,112 @@
       ],
       "aboutmodel": "Modelin boyu 178 və geyindiyi ölçü: S",
       "sales": "endirim"
+    },
+    {
+      "id": "1d3808e5-03af-403e-a560-40fec4daa362",
+      "category": "çantalar",
+      "subcategory": "çiyindən asma çantalar",
+      "marka": "Saint Laurent",
+      "name": "Böyük Loulou dəri çanta",
+      "price": "5325 AZN",
+      "description": "Quzu dərisindən hazırlanmış və şevron sırıqlı tikişlərlə bəzədilmiş bu çiyin çantası Saint Laurent brendinin zərif estetikasını təcəssüm etdirir. Modelin funksional dizaynı sürüşən zəncirvari çiyin qayışı ilə tamamlanır və bu, onun həm çiyində, həm də crossbody üslubunda istifadəsinə imkan verir. Ön qapaq maqnitli bağlanma və metal loqo ilə təchiz olunub, qızılı rəngli metal elementlər isə ümumi görünüşə eleqantlıq qatır. Daxili hissəsində gündəlik əşyalar üçün bir yastı cib və güzgülü çıxarıla bilən əlavə kiçik klatç yerləşir ki, bu da çantanın praktikliyini artırır.",
+      "colors": [
+        {
+          "name": "Bej",
+          "code": "#F5F5DC"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/339884-7d3172a9ae941567677f07ab31205544.jpg",
+          "https://cdn2.emporium.az/i/p/500/339884-059a7e54c51a40b9acd7950f22a8e4e4.jpg",
+          "https://cdn2.emporium.az/i/p/500/339884-4de3d4bd4f38580c44f7338cf19ba92c.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "US"
+      ],
+      "status": "new",
+      "tags": [
+        "Material: 100% Quzu dərisi",
+        "Fərqləndirici elementlər: Şevron sırıqlı tikiş, Zəncirvari çiyin qayışı, Maqnitli bağlanma ilə ön qapaq",
+        "Loqo: Qapaq üzərində metal loqo",
+        "Daxili detallar: Bir daxili yastı cib, Güzgülü çıxarıla bilən daxili kisə",
+        "Detallar: Qızılı rəngli metal elementlər"
+      ],
+      "sales": "endirimli"
+    },
+    {
+      "id": "264f5db7-a848-4c30-9c32-b8c155bf7c76",
+      "category": "çantalar",
+      "subcategory": "çiyindən asma çantalar",
+      "marka": "Saint Laurent",
+      "name": "Böyük Loulou dəri çanta",
+      "price": "5325 AZN",
+      "description": "Quzu dərisindən hazırlanmış və şevron sırıqlı tikişlərlə bəzədilmiş bu çiyin çantası Saint Laurent brendinin zərif estetikasını təcəssüm etdirir. Modelin funksional dizaynı sürüşən zəncirvari çiyin qayışı ilə tamamlanır və bu, onun həm çiyində, həm də crossbody üslubunda istifadəsinə imkan verir. Ön qapaq maqnitli bağlanma və metal loqo ilə təchiz olunub, qızılı rəngli metal elementlər isə ümumi görünüşə eleqantlıq qatır. Daxili hissəsində gündəlik əşyalar üçün bir yastı cib və güzgülü çıxarıla bilən əlavə kiçik klatç yerləşir ki, bu da çantanın praktikliyini artırır.",
+      "colors": [
+        {
+          "name": "Bordo",
+          "code": "#800020"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/339885-37afbefff1901be71b92c485468007fe.jpg",
+          "https://cdn2.emporium.az/i/p/500/339885-797953be8e28e0f4914632d7aba25990.jpg",
+          "https://cdn2.emporium.az/i/p/500/339885-7d3b10d754d4f736c50f4e9ab7524334.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "US"
+      ],
+      "status": "new",
+      "tags": [
+        "Material: 100% Quzu dərisi",
+        "Fərqləndirici elementlər: Şevron sırıqlı tikiş, Zəncirvari çiyin qayışı, Maqnitli bağlanma ilə ön qapaq",
+        "Loqo: Qapaq üzərində metal loqo",
+        "Daxili detallar: Bir daxili yastı cib, Güzgülü çıxarıla bilən daxili kisə",
+        "Detallar: Qızılı rəngli metal elementlər"
+      ],
+      "sales": "endirimli"
+    },
+    {
+      "id": "e0352ebe-49ed-40e0-ba11-b431153293f4",
+      "category": "geyimlər",
+      "subcategory": "denim",
+      "sub2category": "şalvarlar",
+      "marka": "Saint Laurent",
+      "name": "Hündürbel denim şalvar",
+      "price": "1590 AZN",
+      "description": "Saint Laurent brendindən olan zərif göy rəngli denim şalvar klassik eleqantlığın müasir tərzdə təcəssümüdür.Hündür bel silueti vizual olaraq uzadır və beli vurğulayaraq görünüşə xüsusi incəlik qatır.",
+      "colors": [
+        {
+          "name": "göy",
+          "code": "#000080"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/217565-350a1b6ca45fe88ff0e09cab4916b987.jpg",
+          "https://cdn2.emporium.az/i/p/500/217565-5938a84e4f5c2ac18269798e1eddbf84.jpg",
+          "https://cdn2.emporium.az/i/p/500/217565-031fa8228a08e697dd3228b6bf8c9783.jpg"
+        ],
+        "video": "https://cdn2.emporium.az/video/217565.mp4"
+      },
+      "sizes": [
+        "IT42"
+      ],
+      "status": "new",
+      "tags": [
+        "Tərkibi: 97% Pambıq, 3% Elastan",
+        "Fərqləndirici elementlər: Hündür bel, Düz biçimli balaqlar",
+        "Detallar: Kəmər ilmələri, Zəncirbəndli və qarmaqlı bağlanma",
+        "Ciblər: Yan ciblər, Arxa ciblər"
+      ],
+      "aboutmodel": "Modelin boyu 1.73 m və geyindiyi ölçü 40",
+      "sales": "endirimsiz"
     }
   ],
   "kisi": [
@@ -3155,6 +3261,310 @@
       ],
       "aboutmodel": "Modelin boyu 1.95 m, geyindiyi ölçü: 52",
       "sales": "endirimsiz"
+    },
+    {
+      "id": "5ee682d8-f1fa-4cfe-9022-9ad388c37bd7",
+      "category": "geyimlər",
+      "subcategory": "T-shirtlər",
+      "sub2category": "Printli T-shirtlər",
+      "marka": "Moncler",
+      "name": "Loqo printli pambıq T-shirt",
+      "price": "620 AZN",
+      "description": "Moncler T-shirti ikonik detallarla universal bir qarderob elementidir.Yumşaq pambıq materialdan hazırlanmış bu model dəridə xoş hiss yaradır və gün boyu rahatlıq təmin edir. Klassik düz biçim və yumru boğaz onu gündəlik istifadə üçün praktiki seçimə çevirir, döş hissəsindəki kontrast loqo isə məşhur brendə məxsusluğu vurğulayır.",
+      "colors": [
+        {
+          "name": "Bordo",
+          "code": "#800020"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/333798-9c0486423f73b17dc03445ba2c735b5f.jpg",
+          "https://cdn2.emporium.az/i/p/500/333798-2e379b2b7cf05afeee6ba2ee5e9f8e98.jpg",
+          "https://cdn2.emporium.az/i/p/500/333798-2ada8240ab159924bc2b2b49b8bb2115.jpg"
+        ],
+        "video": "https://cdn2.emporium.az/video/333798.mp4"
+      },
+      "sizes": [
+        "XL"
+      ],
+      "status": "old",
+      "tags": [
+        "Tərkibi: 100% Pambıq",
+        "Fərqləndirici elementlər: Loqo printi",
+        "Boğaz: Yumru boğaz",
+        "Qol: Qısaqol",
+        "Ətək: Düz biçimli ətək",
+        "Biçim: Düz biçim"
+      ],
+      "aboutmodel": "Modelin boyu 1.89 m, geyindiyi ölçü: S",
+      "sales": "endirimsiz"
+    },
+    {
+      "id": "54e1c881-39ed-4890-ba59-78614d649953",
+      "category": "geyimlər",
+      "subcategory": "T-shirtlər",
+      "sub2category": "Printli T-shirtlər",
+      "marka": "Moncler",
+      "name": "Loqo printli pambıq T-shirt",
+      "price": "920 AZN",
+      "description": "Moncler T-shirti ikonik detallarla universal bir qarderob elementidir.Yumşaq pambıq materialdan hazırlanmış bu model dəridə xoş hiss yaradır və gün boyu rahatlıq təmin edir. Klassik düz biçim və yumru boğaz onu gündəlik istifadə üçün praktiki seçimə çevirir, döş hissəsindəki kontrast loqo isə məşhur brendə məxsusluğu vurğulayır.",
+      "colors": [
+        {
+          "name": "qara",
+          "code": "#000000"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/333799-9a0cbf466fcbe8003b080accdab5677d.jpg",
+          "https://cdn2.emporium.az/i/p/500/333799-bd129cc1f93d966f1c51c0363b8a9ba5.jpg",
+          "https://cdn2.emporium.az/i/p/500/333799-fe6af94f90b8791745db48b4f4eb66b8.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "XL"
+      ],
+      "status": "old",
+      "tags": [
+        "Tərkibi: 100% Pambıq",
+        "Fərqləndirici elementlər: Loqo printi",
+        "Boğaz: Yumru boğaz",
+        "Qol: Qısaqol",
+        "Ətək: Düz biçimli ətək",
+        "Biçim: Düz biçim"
+      ],
+      "aboutmodel": "Modelin boyu 1.89 m, geyindiyi ölçü: S",
+      "sales": "endirimsiz"
+    },
+    {
+      "id": "f8bf9d58-a82f-4cd5-b627-5326c0b6c181",
+      "category": "geyimlər",
+      "subcategory": "T-shirtlər",
+      "sub2category": "Printli T-shirtlər",
+      "marka": "Moncler",
+      "name": "Loqolu pambıq t-shirt",
+      "price": "715 AZN",
+      "description": "Moncler loqolu pambıq t-shirt gündəlik rahatlığı və dəbli görünüşü birləşdirir. 100% pambıq materialı sayəsində yumşaq və nəfəs alan quruluşa malikdir. Yumru boğazı və qısaqol dizaynı ona minimalist və zamansız üslub bəxş edir. Ön hissədə yerləşən Moncler loqosu isə brendin eleqant və modern estetikasını vurğulayır.",
+      "colors": [
+        {
+          "name": "qara",
+          "code": "#000000"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/329644-9f9734fe5093818e7fc2ed4d4ebcd749.jpg",
+          "https://cdn2.emporium.az/i/p/500/329644-b48f30c97fe58ebb053ada4355230e67.jpg",
+          "https://cdn2.emporium.az/i/p/500/329644-f2476209a1ae1ef3f76892aec140ab35.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "XL",
+        "L"
+      ],
+      "status": "old",
+      "tags": [
+        "Tərkibi: 100% Pambıq",
+        "Fərqləndirici elementlər: Loqo ilə",
+        "Boğaz: Yumru boğaz",
+        "Qol: Qısaqol",
+        "Ətək: Düz biçimli ətək",
+        "Rəng: Ağ",
+        "Brend: Moncler"
+      ],
+      "aboutmodel": "Modelin boyu 189 sm və geyindiyi ölçü S",
+      "sales": "endirimli"
+    },
+    {
+      "id": "0b094668-725f-4c55-99b9-6c89cbe3592c",
+      "category": "geyimlər",
+      "subcategory": "T-shirtlər",
+      "sub2category": "Printli T-shirtlər",
+      "marka": "Moncler",
+      "name": "Loqolu pambıq t-shirt",
+      "price": "1015 AZN",
+      "description": "Moncler loqolu pambıq t-shirt gündəlik rahatlığı və dəbli görünüşü birləşdirir. 100% pambıq materialı sayəsində yumşaq və nəfəs alan quruluşa malikdir. Yumru boğazı və qısaqol dizaynı ona minimalist və zamansız üslub bəxş edir. Ön hissədə yerləşən Moncler loqosu isə brendin eleqant və modern estetikasını vurğulayır.",
+      "colors": [
+        {
+          "name": "Ağ",
+          "code": "#FFFFFF"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/323971-5dbd449b8e802e4c418276368afbd040.jpg",
+          "https://cdn2.emporium.az/i/p/500/323971-4808a547e6b48f5fd5281d2231dcb7f6.jpg",
+          "https://cdn2.emporium.az/i/p/500/323971-fad66ba8db5ccdb314cedaf5e0698649.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "XL",
+        "L"
+      ],
+      "status": "old",
+      "tags": [
+        "Tərkibi: 100% Pambıq",
+        "Fərqləndirici elementlər: Loqo ilə",
+        "Boğaz: Yumru boğaz",
+        "Qol: Qısaqol",
+        "Ətək: Düz biçimli ətək",
+        "Rəng: Ağ",
+        "Brend: Moncler"
+      ],
+      "aboutmodel": "Modelin boyu 189 sm və geyindiyi ölçü S",
+      "sales": "endirimli"
+    },
+    {
+      "id": "d639f2c6-1f15-4907-8686-dbee2e36dddd",
+      "category": "geyimlər",
+      "subcategory": "köynəklər",
+      "sub2category": "gündəlik köynəklər",
+      "marka": "AMIRI",
+      "name": "Denim pambıq köynək",
+      "price": "943 AZN",
+      "description": "Amiri denim köynək müasir üslubun və eleqantlığının bir nümunəsidir. Tamamilə pambıqdan hazırlanmış bu geyim, yüksək rahatlıqla və dəbli görünüşü birləşdirir. Yüksək keyfiyyətli, dəbli geyimlər vasitəsilə öz üslubunu ifadə etmək istəyən tələbkar bəylər üçün nəzərdə tutulmuşdur. Model çoxyönlü qarderob elementi olacaq.",
+      "colors": [
+        {
+          "name": "mavi",
+          "code": "#00BFFF"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/310328-e562ccfea99bb68aa8046b4010f56d15.jpg",
+          "https://cdn2.emporium.az/i/p/500/310328-720dbef946188a2ff8c312260e294bf3.jpg",
+          "https://cdn2.emporium.az/i/p/500/310328-2678e367b86634efa52c41c83ec06a53.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "status": "old",
+      "tags": [
+        "Material: 100% Pambıq",
+        "Bağlanma: Düyməli bağlanma",
+        "Yaxa: Klassik yaxa",
+        "Biçim: Düz biçimli"
+      ],
+      "aboutmodel": "Modelin boyu 1.89 m və geyindiyi ölçü M",
+      "sales": "endirimli"
+    },
+    {
+      "id": "65b1134c-5fe5-4cb7-9b4b-787ef65c728f",
+      "category": "geyimlər",
+      "subcategory": "T-shirtlər",
+      "sub2category": "Printli T-shirtlər",
+      "marka": "AMIRI",
+      "name": "Dairəvi yaxa ilə qısaqol T-shirt",
+      "price": "1265 AZN",
+      "description": "İncə loqo printi ona təsadüfi bir şıklıq əlavə edir. Rahat günlər üçün əla seçim olan bu tişört, rahat və dəbli görünüşü ilə diqqət çəkəcəkdir.",
+      "colors": [
+        {
+          "name": "qara",
+          "code": "#000000"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/278323-89d68bec51dc519a57fe87c89ec41b0f.jpg",
+          "https://cdn2.emporium.az/i/p/500/278323-7f1b5f7b4a7ff6820e00c7cf9e99ee9d.jpg",
+          "https://cdn2.emporium.az/i/p/500/278323-830f860fce91c2911846e8aac80035a4.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "XL"
+      ],
+      "status": "old",
+      "tags": [
+        "Tərkibi: 100% Pambıq",
+        "Qol: Qısaqol",
+        "Yaxa: Dairəvi yaxa",
+        "Fərqləndirici elementlər: Loqo printi",
+        "Ətək: Düz biçimli ətək"
+      ],
+      "aboutmodel": "Modelin boyu 1.87 m, geyindiyi ölçü: M",
+      "sales": "endirimsiz"
+    },
+    {
+      "id": "0970faf0-8f8f-40e5-9082-bda3e4623803",
+      "category": "geyimlər",
+      "subcategory": "T-shirtlər",
+      "sub2category": "Printli T-shirtlər",
+      "marka": "AMIRI",
+      "name": "Dairəvi yaxa ilə qısaqol T-shirt",
+      "price": "615 AZN",
+      "description": "İncə loqo printi ona təsadüfi bir şıklıq əlavə edir. Rahat günlər üçün əla seçim olan bu tişört, rahat və dəbli görünüşü ilə diqqət çəkəcəkdir.",
+      "colors": [
+        {
+          "name": "Ağ",
+          "code": "#FFFFFF"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/276746-298976c51ad840da56d9a88e48f812c1.jpg",
+          "https://cdn2.emporium.az/i/p/500/276746-34eae60b8e5a68fb7a36bd93a0765a9c.jpg",
+          "https://cdn2.emporium.az/i/p/500/276746-5329aade393d75d7cdbddaeaa90df4ea.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "XL"
+      ],
+      "status": "old",
+      "tags": [
+        "Tərkibi: 100% Pambıq",
+        "Qol: Qısaqol",
+        "Yaxa: Dairəvi yaxa",
+        "Fərqləndirici elementlər: Loqo printi",
+        "Ətək: Düz biçimli ətək"
+      ],
+      "aboutmodel": "Modelin boyu 1.87 m, geyindiyi ölçü: M",
+      "sales": "endirimli"
+    },
+    {
+      "id": "aedb012a-3712-44ce-94dd-e0a1fdbe5f68",
+      "category": "geyimlər",
+      "subcategory": "T-shirtlər",
+      "sub2category": "Printli T-shirtlər",
+      "marka": "AMIRI",
+      "name": "Dairəvi yaxa ilə qısaqol T-shirt",
+      "price": "1415 AZN",
+      "description": "İncə loqo printi ona təsadüfi bir şıklıq əlavə edir. Rahat günlər üçün əla seçim olan bu tişört, rahat və dəbli görünüşü ilə diqqət çəkəcəkdir.",
+      "colors": [
+        {
+          "name": "mavi",
+          "code": "#00BFFF"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/278325-e0ccad0b4c6dc1df037c32c7788a6a25.jpg",
+          "https://cdn2.emporium.az/i/p/500/278325-d3d89d12d6faac2c3ff62f8e9212a849.jpg",
+          "https://cdn2.emporium.az/i/p/500/278325-008c4f0049b8c872b38c851f17d8847b.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "XL"
+      ],
+      "status": "new",
+      "tags": [
+        "Tərkibi: 100% Pambıq",
+        "Qol: Qısaqol",
+        "Yaxa: Dairəvi yaxa",
+        "Fərqləndirici elementlər: Loqo printi",
+        "Ətək: Düz biçimli ətək"
+      ],
+      "aboutmodel": "Modelin boyu 1.87 m, geyindiyi ölçü: M",
+      "sales": "endirimsiz"
     }
   ],
   "categoryall": [
@@ -3545,7 +3955,7 @@
     {
       "category": "qadin",
       "description": "Yeni Əlavələr",
-      "img" : "https://cdn-cloudflare.emporium.az/women/triple-banner-3.gif",
+      "img": "https://cdn-cloudflare.emporium.az/women/triple-banner-3.gif",
       "brand": "PatBO",
       "p": null
     },
@@ -3566,9 +3976,41 @@
     {
       "category": "kisi",
       "description": "Yeni Əlavələr",
-      "img" : "https://cdn2.emporium.az/video/294978.mp4",
+      "img": "https://cdn2.emporium.az/video/294978.mp4",
       "brand": "ralphlauren",
       "p": null
+    }
+  ],
+  "categmediafooter": [
+    {
+      "category": "qadin",
+      "description": "Son Əlavələr",
+      "brand": "maje",
+      "img": "https://cdn-cloudflare.emporium.az/women/double-banner-1.jpg"
+    },
+    {
+      "category": "qadin",
+      "description": "Eleqantlıq incəsənəti",
+      "brand": "Saint-Laurent",
+      "img": "https://cdn-cloudflare.emporium.az/women/double-banner-2.jpg"
+    },
+    {
+      "category": "kisi",
+      "description": "Klassik dizayn, müasir ruh",
+      "brand": "Amiri",
+      "img": "https://cdn-cloudflare.emporium.az/men/double-banner-1.jpg"
+    },
+    {
+      "category": "kisi",
+      "description": "Lüks və macəra",
+      "brand": "Moncler",
+      "img": "https://cdn-cloudflare.emporium.az/men/double-banner-2.jpg"
+    },
+    {
+      "category": "usaq",
+      "description": "Cəsarətlə doğulub",
+      "brand": "Diesel",
+      "img": "https://cdn-cloudflare.emporium.az/kids/one-banner.jpg"
     }
   ]
 }
