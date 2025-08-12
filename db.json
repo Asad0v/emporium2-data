@@ -4012,5 +4012,21 @@
       "brand": "Diesel",
       "img": "https://cdn-cloudflare.emporium.az/kids/one-banner.jpg"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "ad": "Rashid",
+      "soyad": "Asadov",
+      "email": "rashid@example.com",
+      "phone": "+994501234567",
+      "dogumgunu" : "2004-10-19T00:00:00.000Z",
+      "cins" : "kişi",
+      "password": "Admin123",
+      "role": "super_admin",
+      "createAt": "2025-08-12T00:00:00.000Z",
+      "isActive": true,
+      "lastLogin": null
+    }
   ]
 }
