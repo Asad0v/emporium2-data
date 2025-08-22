@@ -1637,7 +1637,7 @@
         "Jakron: Dana dərisi"
       ],
       "aboutmodel": "Modelin boyu 178 və geyindiyi ölçü: S",
-      "sales": "endirim"
+      "sales": "endirimli"
     },
     {
       "id": "1d3808e5-03af-403e-a560-40fec4daa362",
@@ -1743,6 +1743,442 @@
         "Ciblər: Yan ciblər, Arxa ciblər"
       ],
       "aboutmodel": "Modelin boyu 1.73 m və geyindiyi ölçü 40",
+      "sales": "endirimsiz"
+    },
+    {
+      "id": "1cb30154-a6e2-4c63-bf43-e673ebc77fae",
+      "category": "çantalar",
+      "subcategory": "əl çantaları",
+      "marka": "marc jacobs",
+      "name": "The Leather Tote Medium çantası",
+      "price": "1100 AZN",
+      "description": null,
+      "colors": [
+        {
+          "name": "qəhvəyi",
+          "code": "#6F4E37"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/193792-2793bdde305b6ff1fbc9610a99a14bd4.jpg",
+          "https://cdn2.emporium.az/i/p/500/193792-f43b17586e5ed0bd6040120d2da8a3d0.jpg",
+          "https://cdn2.emporium.az/i/p/500/193792-9575b829881d9fa435e993c43cae9417.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "US"
+      ],
+      "status": "new",
+      "tags": [
+        "Tərkibi: 100% dəri",
+        "Ön tərəfdə loqo",
+        "Arxa tərəfdə loqo",
+        "Dairəvi üst tutacaqlar",
+        "Tənzimlənən və çıxarıla bilən çiyin qayışı",
+        "Zəncirbəndli bağlanma",
+        "Ölçülər: 42 x 16 x 34 sm",
+        "Tutacaq düşməsi: 24 sm"
+      ],
+      "sales": "endirimli"
+    },
+    {
+      "id": "b734eb1e-2c46-46d7-84ab-d5294c7ff9bb",
+      "category": "çantalar",
+      "subcategory": "əl çantaları",
+      "marka": "marc jacobs",
+      "name": "Qırmızı rəngli dəri kiçik çanta",
+      "price": "1200 AZN",
+      "description": null,
+      "colors": [
+        {
+          "name": "qırmızı",
+          "code": "#FF0000"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/177334-33d65dc283ce2b5a1c74b05b3d43762c.jpg",
+          "https://cdn2.emporium.az/i/p/500/177334-997b706730037c16246d7edef5e3844b.jpg",
+          "https://cdn2.emporium.az/i/p/500/177334-a7dd1ad47a3a142660ddca1eb4454e08.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "US"
+      ],
+      "status": "new",
+      "tags": [
+        "Material: Dəri",
+        "Daxili zəncirbəndli cib",
+        "Çıxarıla bilən dəri kəmər",
+        "Kəmərin uzunluğu: 144 sm",
+        "Ölçülər: 34 x 15 x 27 sm"
+      ],
+      "sales": "endirimsiz"
+    },
+    {
+      "id": "55a85230-882b-4b9e-9339-8c0cedc7a79c",
+      "category": "çantalar",
+      "subcategory": "əl çantaları",
+      "marka": "marc jacobs",
+      "name": "Loqo detallı əl çantası",
+      "price": "1250 AZN",
+      "description": null,
+      "colors": [
+        {
+          "name": "Boz",
+          "code": "#CFCFCF"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/244587-66e557f4c363023e77d506851a9af0e0.jpg",
+          "https://cdn2.emporium.az/i/p/500/244587-6ffcd1e19eee7f00d70f1ba42fb62c44.jpg",
+          "https://cdn2.emporium.az/i/p/500/244587-d4ab49ddb498e379fcd75111264654e5.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "US"
+      ],
+      "status": "new",
+      "tags": [
+        "Tərkibi: dəri",
+        "Rəng: boz",
+        "Ölçülər: 34 x 15 x 27 sm",
+        "Loqo detal",
+        "İki qulplu",
+        "Zəncirbəndli bağlama",
+        "Tənzimlənə və ayrıla bilən çiyin kəməri"
+      ],
+      "sales": "endirimli"
+    },
+    {
+      "id": "ea615e39-a631-40a0-8bba-7668ae545ce3",
+      "category": "çantalar",
+      "subcategory": "əl çantaları",
+      "marka": "marc jacobs",
+      "name": "Açıq-boz rəngli 'The Leather Tote' çantası",
+      "price": "1250 AZN",
+      "description": null,
+      "colors": [
+        {
+          "name": "Açıq boz",
+          "code": "#C5B1A8"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/193745-e45302449a3e584d5e5d47345670d505.jpg",
+          "https://cdn2.emporium.az/i/p/500/193745-c8859898ca7cafa7b2a2cf227a1986be.jpg",
+          "https://cdn2.emporium.az/i/p/500/193745-ff6e42ff5e9fbe823520f768258ea80c.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "US"
+      ],
+      "status": "new",
+      "tags": [
+        "Tərkibi: 100% dəri",
+        "Ön tərəfdə loqo",
+        "Arxa tərəfdə loqo",
+        "Dairəvi üst tutacaqlar",
+        "Tənzimlənən və çıxarıla bilən çiyin qayışı",
+        "Zəncirbəndli bağlanma"
+      ],
+      "sales": "endirimsiz"
+    },
+    {
+      "id": "9bb13fde-a51e-456e-95bf-f3137119bcaa",
+      "category": "çantalar",
+      "subcategory": "əl çantaları",
+      "marka": "marc jacobs",
+      "name": "The Leather Medium Tote Bag çanta",
+      "price": "2300 AZN",
+      "description": "Marc Jacobs brendinə məxsus The Leather Medium Tote Bag çantası funksionallığı və müasir üslubu bir araya gətirir. Çəhrayı rəngi və ikonik 'The Tote Bag' printi ilə diqqət çəkən bu çanta, həm gündəlik istifadə, həm də xüsusi tədbirlər üçün mükəmməl seçimdir. Çıxarıla və tənzimlənə bilən çiyin qayışı, rahat üst tutacaqları və geniş daxili bölmələri ilə praktikliyi təmin edir. Daxili cibləri və zəncirbəndli bağlanması ilə bu çanta ehtiyaclarınızı səliqəli şəkildə daşımağa imkan verir.",
+      "colors": [
+        {
+          "name": "Açıq çəhrayı",
+          "code": "#F2B7BD"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/316474-c67e0b6f30bd94d6b00d2b5508a3fbdd.jpg",
+          "https://cdn2.emporium.az/i/p/500/316474-aba9e3d0fe5907c8e6e9f96e11801305.jpg",
+          "https://cdn2.emporium.az/i/p/500/316474-c0f0f6c50bafae5468978c57d7922db1.jpg",
+          "https://cdn2.emporium.az/i/p/500/316474-5d3633c777f390c86146d632f52cbccc.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "US"
+      ],
+      "status": "new",
+      "tags": [
+        "Tərkibi: 100% Dəri",
+        "Zəncirbəndli bağlanmalı",
+        "Üst tutacaqlı",
+        "Çıxarıla və tənzimlənə bilən çiyin qayışı",
+        "1 zəncirbəndli bağlanmalı cib",
+        "2 yastı cib",
+        "1 kart cibi",
+        "İkonik 'The Tote Bag' printli",
+        "Loqo printli",
+        "Ölçülər: 13in L x 6in D x 11in H",
+        "34cm L x 15cm D x 27cm H",
+        "Kəmər: 57in L x 2in D (144cm L x 4cm D)",
+        "Kəmər düşmə məsafəsi: 27in (69cm)",
+        "Tutacaq düşmə məsafəsi: 5in (12cm)",
+        "Rəng: Açıq-Çəhrayı",
+        "Marc Jacobs"
+      ],
+      "sales": "endirimli"
+    },
+    {
+      "id": "c85e76b8-2a9a-4a78-922a-5952c4f0b3ad",
+      "category": "çantalar",
+      "subcategory": "əl çantaları",
+      "marka": "marc jacobs",
+      "name": "Loqo detallı dəri əl çantası",
+      "price": "1900 AZN",
+      "description": "Marc Jacobs brendinə məxsus The Leather Medium Tote Bag çantası funksionallığı və müasir üslubu bir araya gətirir. Çəhrayı rəngi və ikonik 'The Tote Bag' printi ilə diqqət çəkən bu çanta, həm gündəlik istifadə, həm də xüsusi tədbirlər üçün mükəmməl seçimdir. Çıxarıla və tənzimlənə bilən çiyin qayışı, rahat üst tutacaqları və geniş daxili bölmələri ilə praktikliyi təmin edir. Daxili cibləri və zəncirbəndli bağlanması ilə bu çanta ehtiyaclarınızı səliqəli şəkildə daşımağa imkan verir.",
+      "colors": [
+        {
+          "name": "Açıq çəhrayı",
+          "code": "#EED3CC"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/250240-693abfcde6ac4aad39d07326227edcac.JPG",
+          "https://cdn2.emporium.az/i/p/500/250240-2bd7b6adb35955f11e120fd872436d2c.JPG",
+          "https://cdn2.emporium.az/i/p/500/250240-aeff2b856e409a6a858fa0c7f60bf4c0.JPG",
+          "https://cdn2.emporium.az/i/p/500/250240-fbf3e6d5c1cd41e094d15978d91b38ad.JPG"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "US"
+      ],
+      "status": "old",
+      "tags": [
+        "Tərkibi: 100% Dəri",
+        "Zəncirbəndli bağlanmalı",
+        "Üst tutacaqlı",
+        "Çıxarıla və tənzimlənə bilən çiyin qayışı",
+        "1 zəncirbəndli bağlanmalı cib",
+        "2 yastı cib",
+        "1 kart cibi",
+        "İkonik 'The Tote Bag' printli",
+        "Loqo printli",
+        "Ölçülər: 13in L x 6in D x 11in H",
+        "34cm L x 15cm D x 27cm H",
+        "Kəmər: 57in L x 2in D (144cm L x 4cm D)",
+        "Kəmər düşmə məsafəsi: 27in (69cm)",
+        "Tutacaq düşmə məsafəsi: 5in (12cm)",
+        "Rəng: Açıq-Çəhrayı",
+        "Marc Jacobs"
+      ],
+      "sales": "endirimli"
+    },
+    {
+      "id": "fff3ad2c-14a7-45d0-8a74-31af3293a118",
+      "category": "çantalar",
+      "subcategory": "əl çantaları",
+      "marka": "marc jacobs",
+      "name": "Loqo detallı dəri əl çantası",
+      "price": "1700 AZN",
+      "description": "Çəhrayı dəri Marc Jacobs orta ölçülü çantası",
+      "colors": [
+        {
+          "name": "çəhrayı",
+          "code": "#D43166"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/274219-5f96f0f105d4e52e27970759ed3d63bb.jpg",
+          "https://cdn2.emporium.az/i/p/500/274219-b029c185bdb39742f5fd00d701fe69a4.jpg",
+          "https://cdn2.emporium.az/i/p/500/274219-9705110f6b0b850b1c91675a55d10cdb.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "US"
+      ],
+      "status": "old",
+      "tags": [
+        "Material: 100% Dəri",
+        "Rəng: Çəhrayı",
+        "Tam dənəvari dəri",
+        "Üst zəncirbəndli bağlanma",
+        "Üst tutacaq, çıxarıla bilən və tənzimlənən dəri qayış",
+        "1 daxili zəncirbəndli cib, 2 cib, 1 kart bölməsi",
+        "Toz torbası daxildir",
+        "Dərinlik: 15 sm",
+        "Hündürlük: 27 sm",
+        "Eni: 34 sm"
+      ],
+      "sales": "endirimli"
+    },
+    {
+      "id": "6fa71260-8bb8-4802-88ce-8f61f221c955",
+      "category": "çantalar",
+      "subcategory": "əl çantaları",
+      "marka": "marc jacobs",
+      "name": "The Leather Medium Tote Bag çantası",
+      "price": "1500 AZN",
+      "description": "Marc Jacobs brendinə məxsus The Leather Medium Tote Bag çantası",
+      "colors": [
+        {
+          "name": "sarı",
+          "code": "#FFFF00"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/282894-761cbc2bef9e2137f88cf15a089690c3.jpg",
+          "https://cdn2.emporium.az/i/p/500/282894-16497b6c6bc7fa2085f215b228c6997d.jpg",
+          "https://cdn2.emporium.az/i/p/500/282894-0593b4480c0fdede9804a109b1d1cf3e.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "US"
+      ],
+      "status": "old",
+      "tags": [
+        "Material: 100% Dəri",
+        "Tam dənəvari dəri",
+        "Üst zəncirbəndli bağlanma",
+        "Üst tutacaq, çıxarıla bilən və tənzimlənən dəri qayış",
+        "1 daxili zəncirbəndli cib, 2 cib, 1 kart bölməsi",
+        "Toz torbası daxildir",
+        "Dərinlik: 15 sm",
+        "Hündürlük: 27 sm",
+        "Eni: 34 sm"
+      ],
+      "sales": "endirimli"
+    },
+    {
+      "id": "f9f8d12d-c185-491e-88ee-9373b336f199",
+      "category": "çantalar",
+      "subcategory": "əl çantaları",
+      "marka": "marc jacobs",
+      "name": "The Leather Medium Tote Bag çantası",
+      "price": "1514 AZN",
+      "description": "Marc Jacobs brendinə məxsus The Leather Medium Tote Bag çantası",
+      "colors": [
+        {
+          "name": "tünd yaşıl",
+          "code": "#2F3C33"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/316472-84363f45d15229a024c09dd1d55409e6.jpg",
+          "https://cdn2.emporium.az/i/p/500/316472-ce8aad090c203ee067f9f837757d5dfe.jpg",
+          "https://cdn2.emporium.az/i/p/500/316472-40f99e9d2ff8743fd158f8c97babab89.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "US"
+      ],
+      "status": "new",
+      "tags": [
+        "Material: 100% Dəri",
+        "Tam dənəvari dəri",
+        "Üst zəncirbəndli bağlanma",
+        "Üst tutacaq, çıxarıla bilən və tənzimlənən dəri qayış",
+        "1 daxili zəncirbəndli cib, 2 cib, 1 kart bölməsi",
+        "Toz torbası daxildir",
+        "Dərinlik: 15 sm",
+        "Hündürlük: 27 sm",
+        "Eni: 34 sm"
+      ],
+      "sales": "endirimli"
+    },
+    {
+      "id": "35935d32-cdf7-48ad-9d35-c53b62b6ac68",
+      "category": "çantalar",
+      "subcategory": "əl çantaları",
+      "marka": "marc jacobs",
+      "name": "The Leather Medium Tote Bag çantası",
+      "price": "1415 AZN",
+      "description": "Marc Jacobs brendinə məxsus The Leather Medium Tote Bag çantası",
+      "colors": [
+        {
+          "name": "yaşıl",
+          "code": "#008B00"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/293156-8ae937b28bfa73595f4eabaaf38cb941.jpg",
+          "https://cdn2.emporium.az/i/p/500/293156-7810461331d47d75f4a74220272ce034.jpg",
+          "https://cdn2.emporium.az/i/p/500/293156-327a08c511211173a43a7e7c3649cfc0.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "US"
+      ],
+      "status": "new",
+      "tags": [
+        "Material: 100% Dəri",
+        "Tam dənəvari dəri",
+        "Üst zəncirbəndli bağlanma",
+        "Üst tutacaq, çıxarıla bilən və tənzimlənən dəri qayış",
+        "1 daxili zəncirbəndli cib, 2 cib, 1 kart bölməsi",
+        "Toz torbası daxildir",
+        "Dərinlik: 15 sm",
+        "Hündürlük: 27 sm",
+        "Eni: 34 sm"
+      ],
+      "sales": "endirimli"
+    },
+    {
+      "id": "35935d32-cdf7-48ad-9d35-c53b62b6ac68",
+      "category": "çantalar",
+      "subcategory": "əl çantaları",
+      "marka": "marc jacobs",
+      "name": "The Leather Medium Tote Bag çantası",
+      "price": "3415 AZN",
+      "description": "Marc Jacobs brendinə məxsus The Leather Medium Tote Bag çantası",
+      "colors": [
+        {
+          "name": "yasəmən rəngi",
+          "code": "#C8A2C8"
+        }
+      ],
+      "media": {
+        "images": [
+          "https://cdn2.emporium.az/i/p/500/293157-21ed390ea5d1b0649df66336ea467d1e.JPG",
+          "https://cdn2.emporium.az/i/p/500/293157-5fcfb4d22b537e5e5206da55e209d9b5.JPG",
+          "https://cdn2.emporium.az/i/p/500/293157-1d40587c8c0a62ad9965a92a0de76b22.jpg"
+        ],
+        "video": null
+      },
+      "sizes": [
+        "US"
+      ],
+      "status": "new",
+      "tags": [
+        "Material: 100% Dəri",
+        "Tam dənəvari dəri",
+        "Üst zəncirbəndli bağlanma",
+        "Üst tutacaq, çıxarıla bilən və tənzimlənən dəri qayış",
+        "1 daxili zəncirbəndli cib, 2 cib, 1 kart bölməsi",
+        "Toz torbası daxildir",
+        "Dərinlik: 15 sm",
+        "Hündürlük: 27 sm",
+        "Eni: 34 sm"
+      ],
       "sales": "endirimsiz"
     }
   ],
@@ -4020,8 +4456,8 @@
       "soyad": "Asadov",
       "email": "rashid@example.com",
       "phone": "994501234567",
-      "dogumgunu" : "2004-10-19T00:00:00.000Z",
-      "cins" : "kişi",
+      "dogumgunu": "2004-10-19T00:00:00.000Z",
+      "cins": "kişi",
       "password": "Admin123",
       "role": "super_admin",
       "createAt": "2025-08-12T00:00:00.000Z",
